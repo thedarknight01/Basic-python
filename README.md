@@ -1,4 +1,4 @@
-#Basic-python
+# Basic-python
 For Beginners learning git and git hub basics. No Spam!
 #hacktoberfest #hactoberfest@2022 #hacktober-accecpted #beginner-friendly
 #basic-python
