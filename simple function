@@ -1,0 +1,11 @@
+# Functions are used to perform a specific task when called
+# Here's how to define a simple function
+
+# Define the function with its relevant name i.ee my_family because we're going to include attach's first name to the family surname
+def my_family(firstname):
+ print(firstname + " Smith")
+
+# Defining everyon's firstname
+my_family("Jane")
+my_family("John")
+my_family("Giles")
